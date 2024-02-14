@@ -1,0 +1,1 @@
+## File 3. This is Git Assignment for Staragile. ##
